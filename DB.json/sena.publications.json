@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "663cafbb88865b1ee9261257"
+  },
+  "placa": "ASD-123",
+  "numeroDeSerie": 217421,
+  "modelo": "Spark (GT + Life)",
+  "marca": "Chevrolet",
+  "kilometraje": 150,
+  "tipo": "carro deportivo",
+  "createdAt": {
+    "$date": "2024-05-09T11:12:59.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T11:12:59.527Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663cb03a88865b1ee9261259"
+  },
+  "placa": "FTP-304",
+  "numeroDeSerie": 3374222,
+  "modelo": "Sail",
+  "marca": "Chevrolet",
+  "kilometraje": 200,
+  "tipo": "carro convencional",
+  "createdAt": {
+    "$date": "2024-05-09T11:15:06.135Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T11:15:06.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663cb07988865b1ee926125b"
+  },
+  "placa": "GHT-304",
+  "numeroDeSerie": 638910,
+  "modelo": "Duster",
+  "marca": "Renault",
+  "kilometraje": 250,
+  "tipo": "carro rally",
+  "createdAt": {
+    "$date": "2024-05-09T11:16:09.590Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T11:40:49.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663cb0cb88865b1ee926125e"
+  },
+  "placa": "JPT-102",
+  "numeroDeSerie": 792354,
+  "modelo": "Sandero + Sandero Stepway",
+  "marca": "Renault",
+  "kilometraje": 100,
+  "tipo": "carro rally",
+  "createdAt": {
+    "$date": "2024-05-09T11:17:31.862Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T11:17:31.862Z"
+  }
+}]
